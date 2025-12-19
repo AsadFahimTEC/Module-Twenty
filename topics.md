@@ -1,7 +1,7 @@
 -----
 ALL TOPICS COVER IN THIS CLASS
-1. Handling null with Coalesce
-2. Limit, Offset, Pagination
+1. Subquery Basics
+2. Functions Explained
 3. Updating data
 4. Deleting data
 5. GROUP BY With Having
